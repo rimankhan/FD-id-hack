@@ -8,7 +8,7 @@ Install Required Tools:
 pkg install git python -y
 
 Clone the Repository:
-git clone https://github.com/EgaleX5/Instagram-phishing-.git
+git clone https://github.rimanvai.git
 
 Ensure karein ki cloning successful hai:
 
